@@ -1,120 +1,184 @@
+<div align="center">
+
 # 👋 Hi, I'm Gouni Shiva Shankar
 
-### 🚀 Data Science Student | Entrepreneur | AI & Technology Enthusiast
+### 🚀 Data Science Student • Entrepreneur • AI Enthusiast
 
-I'm a **B.Tech Data Science student** passionate about **Artificial Intelligence, Data Science, Entrepreneurship, Innovation, and Leadership**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+Student;Founder+%26+CEO+of+SkillSynth;AI+%26+Data+Science+Enthusiast;Entrepreneur+%7C+Builder+%7C+Problem+Solver;Building+Ideas+That+Create+Impact" />
 
-Founder & CEO of **SkillSynth**, where I have mentored **150+ students** through career guidance, workshops, and mentorship initiatives.
+<br>
+
+<a href="https://linkedin.com/in/gounishivashankar">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:gounishiva02@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/SHIVASHANKARGOUNI">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech – Data Science
-- 🚀 Founder & CEO – SkillSynth
-- 🤝 Team Member – Collab.io
-- 🤖 Interested in AI & Data Science
-- 📊 Exploring Data Analytics & Business Intelligence
-- 💡 Passionate about Startups & Innovation
-- 🏆 Hackathon Participant
-- 👥 Mentored 150+ students
+🎓 **B.Tech Data Science Student**
+
+🚀 **Founder & CEO @ SkillSynth**
+
+👥 Mentored **150+ students**
+
+🤖 Passionate about **AI, Data Science & Innovation**
+
+💡 Interested in **Startups, Entrepreneurship & Leadership**
+
+📊 Exploring **Data Analytics, Business Intelligence & Power BI**
+
+🏆 Hackathon & Innovation Challenge Participant
+
+> **"Building skills. Creating impact. Turning ideas into reality."**
 
 ---
 
-## 🛠️ Skills
+## 🚀 What I Do
 
-### Programming
-`Java` `Python` `C` `SQL`
-
-### Data & AI
-`Data Science` `Prompt Engineering` `n8n`
-
-### Tools
-`Git` `GitHub` `Excel` `Power BI` `Tableau`
-
-### Core CS
-`Data Structures & Algorithms` `DBMS` `OOP` `Operating Systems`
+| Area | Focus |
+|------|-------|
+| 🤖 **Artificial Intelligence** | AI Solutions • Prompt Engineering |
+| 📊 **Data Science** | Data Analysis • Data-driven solutions |
+| 💼 **Entrepreneurship** | Startups • Strategy • Innovation |
+| 👥 **Leadership** | Team Building • Mentorship |
+| 📈 **Business Intelligence** | Excel • Power BI • Tableau |
+| 🚀 **Product Building** | Student & Startup-focused platforms |
 
 ---
 
-## 🚀 Featured Projects
+# 🛠️ Tech Stack
+
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,mysql"/>
+</p>
+
+### 🤖 AI & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+`Data Science` `Prompt Engineering` `n8n` `Power BI` `Tableau` `Excel`
+
+### 🔧 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 ### 🏙️ City Guardian AI
-AI-powered smart-city solution for identifying and monitoring civic issues to improve city safety, cleanliness, and efficiency.
+
+> AI-powered smart-city solution designed to identify and monitor civic issues and improve city safety, cleanliness and efficiency.
+
+**Focus:** `AI` `Smart City` `Data`
+
+---
 
 ### ♻️ Waste to Wealth
-Sustainable waste-management project focused on converting waste materials into useful and valuable resources.
+
+> Sustainable waste-management project focused on converting waste materials into useful and valuable resources.
+
+**Focus:** `Sustainability` `Innovation` `Waste Management`
+
+---
 
 ### 🚀 Student Startup Management System
-A centralized platform for managing startup ideas, mentors, teams, collaboration, and innovation workflows.
+
+> Centralized platform for managing startup ideas, mentors, teams, collaboration and innovation workflows.
+
+**Focus:** `Startups` `Management` `Innovation`
+
+---
 
 ### 🏠 Dream Layout – SIH 2025
-AI-assisted 2D/3D house-planning platform with cost estimation, AR visualization, and personalized recommendations.
+
+> AI-assisted 2D/3D house-planning platform with cost estimation, AR visualization and personalized recommendations.
+
+**Focus:** `AI` `3D Planning` `AR` `Smart Housing`
+
+---
 
 ### 🛒 SmartCart
-AI & IoT-based cashier-less smart shopping cart using RFID, computer vision, and real-time billing.
+
+> AI & IoT-based cashier-less smart shopping cart using RFID, computer vision and real-time billing.
+
+**Focus:** `AI` `IoT` `RFID` `Computer Vision`
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
-- 🥇 High Potential Youth Entrepreneur – AYECA
-- ⭐ ERI Score: **4.7/5**
-- 🏆 NeoNexus 36.1 National-Level Hackathon – Participant
-- 🇮🇳 Smart India Hackathon 2025 – Participant
-- 💡 MSME Idea Hackathon 2025 & 2026 – Participant
-- 👥 Mentored **150+ students**
+🏅 **High Potential Youth Entrepreneur – AYECA**
 
----
+⭐ **ERI Score: 4.7/5**
 
-## 📜 Certifications
+🏆 **NeoNexus 36.1 National-Level Hackathon – Participant**
 
-- ☕ Java – Udemy
-- 🐍 Python/Java – HackerRank
-- ☁️ Data Engineering – AWS/EduSkills
-- 📊 Data Analytics – Deloitte
+🇮🇳 **Smart India Hackathon 2025 – Participant**
+
+💡 **MSME Idea Hackathon 2025 & 2026 – Participant**
+
+👥 **Mentored 150+ Students**
 
 ---
 
-## 🌱 Currently Learning
+# 📜 Certifications
 
-- 🤖 Artificial Intelligence
-- 📊 Data Science
-- 📈 Data Analytics
-- 📊 Power BI
-- 💼 Business Intelligence
-- 🚀 Entrepreneurship & Leadership
+- ☕ Java — Udemy
+- 🐍 Python / Java — HackerRank
+- ☁️ Data Engineering — AWS / EduSkills
+- 📊 Data Analytics — Deloitte
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHIVASHANKARGOUNI&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVASHANKARGOUNI&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=SHIVASHANKARGOUNI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVASHANKARGOUNI&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 
-## 🤝 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/gounishivashankar">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:gounishiva02@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
-</p>
+</div>
 
 ---
 
-### 💡 Building Skills. Creating Impact. Turning Ideas Into Reality. 🚀
+# 🐍 Contribution Journey
 
-⭐ **Feel free to explore my repositories and connect with me!**
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SHIVASHANKARGOUNI/SHIVASHANKARGOUNI/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
+
+```text
+Artificial Intelligence
+        ↓
+Data Science
+        ↓
+Data Analytics
+        ↓
+Business Intelligence
+        ↓
+Entrepreneurship
+        ↓
+Startup Building
