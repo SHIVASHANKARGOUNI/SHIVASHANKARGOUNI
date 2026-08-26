@@ -146,25 +146,9 @@
 
 ---
 
-# 📈 GitHub Analytics
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SHIVASHANKARGOUNI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVASHANKARGOUNI&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-
-</div>
-
----
-
-# 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SHIVASHANKARGOUNI/SHIVASHANKARGOUNI/output/github-contribution-grid-snake.svg" />
-
-</div>
 
 ---
 
